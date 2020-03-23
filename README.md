@@ -1,3 +1,5 @@
+# Blog
+https://blog.mgattozzi.dev/refactor-rust/
 # github-rs
 
 | Service      | Status |
